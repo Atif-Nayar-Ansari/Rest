@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+    <addr>
+        <aid>999</aid>
+        <loc>Odisha</loc>
+    </addr>
+    <cid>202</cid>
+    <cname>Atif</cname>
+</customer>
